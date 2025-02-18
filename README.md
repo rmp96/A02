@@ -1,13 +1,3 @@
 # A02
-Branch
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+To install webstorm download from this website: https://www.jetbrains.com/community/education/#students
+<br>
